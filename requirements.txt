@@ -1,5 +1,4 @@
 Flask==2.3.3
 requests==2.31.0
 python-dotenv==1.0.0
-pytz==2025.7
-SQLAlchemy==2.0.28
+pytz==2025.2
